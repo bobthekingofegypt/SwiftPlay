@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "departureDate": "2017-08-01T18:00:00.000Z",
+      "totalTime": 30,
+      "stages": [
+        {
+          "mode": "walk",
+          "time": 5
+        },
+        {
+          "mode": "train",
+          "time": 20,
+	  "number": 22 
+        },
+        {
+          "mode": "bus",
+          "time": 30,
+	  "number": 666 
+        }
+      ]
+    }
+  ]
+}
+
+    

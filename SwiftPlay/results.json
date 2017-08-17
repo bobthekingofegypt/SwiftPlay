@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "departureDate": "2017-08-01T18:00:00.000Z",
+      "totalTime": 30,
+      "destination": "Piaski Wielkie",
+      "stages": [
+        {
+          "mode": "walk",
+          "travelTime": 5,
+          "distance": 510,
+          "time": "18:05",
+          "location": "Grzegórzecka 10"
+        },
+        {
+          "mode": "train",
+          "travelTime": 20,
+	      "number": 22,
+          "time": "18:25",
+          "numberOfStops": 5,
+          "location": "Hala Targowa",
+          "stop": "Bronowice Średnie",
+          "departuresEvery": 20
+        },
+        {
+          "mode": "bus",
+          "travelTime": 30,
+	      "number": 666,
+          "time": "18:55",
+          "numberOfStops": 2,
+          "location": "Rzebika",
+          "stop": "Pierdziele Nierobie",
+          "departuresEvery": 12
+        }
+      ]
+    },
+            {
+            "id": 0,
+            "departureDate": "2017-08-01T18:07:00.000Z",
+            "totalTime": 28,
+            "destination": "Piaski Wielkie",
+            "stages": [
+                       {
+                       "mode": "walk",
+                       "travelTime": 5,
+                       "distance": 510,
+                       "time": "18:05",
+                       "location": "Grzegórzecka 10"
+                       },
+                       {
+                       "mode": "train",
+                       "travelTime": 20,
+                       "number": 22,
+                       "time": "18:25",
+                       "numberOfStops": 5,
+                       "location": "Hala Targowa",
+                       "stop": "Bronowice Średnie",
+                       "departuresEvery": 20
+                       },
+                       {
+                       "mode": "bus",
+                       "travelTime": 30,
+                       "number": 666,
+                       "time": "18:55",
+                       "numberOfStops": 2,
+                       "location": "Rzebika",
+                       "stop": "Pierdziele Nierobie",
+                       "departuresEvery": 12
+                       },
+                       {
+                       "mode": "bus",
+                       "travelTime": 30,
+                       "number": 26,
+                       "time": "18:55",
+                       "numberOfStops": 12,
+                       "location": "Rzebika",
+                       "stop": "Pierdziele Nierobie",
+                       "departuresEvery": 12
+                       }
+                       ]
+            },
+            {
+            "id": 0,
+            "departureDate": "2017-08-01T18:20:00.000Z",
+            "totalTime": 30,
+            "destination": "Bentoya",
+            "stages": [
+                       {
+                       "mode": "walk",
+                       "travelTime": 15,
+                       "distance": 1600,
+                       "time": "18:35",
+                       "location": "Stockbridge"
+                       },
+                       {
+                       "mode": "bus",
+                       "travelTime": 5,
+                       "number": 48,
+                       "time": "18:40",
+                       "numberOfStops": 3,
+                       "location": "Lothian Road",
+                       "stop": "St Cuthbert Church",
+                       "departuresEvery": 12
+                       }
+                       ]
+            }
+    
+  ]
+}
+
+    

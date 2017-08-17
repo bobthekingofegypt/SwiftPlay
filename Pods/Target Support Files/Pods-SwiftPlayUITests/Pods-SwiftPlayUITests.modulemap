@@ -1,0 +1,6 @@
+framework module Pods_SwiftPlayUITests {
+  umbrella header "Pods-SwiftPlayUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

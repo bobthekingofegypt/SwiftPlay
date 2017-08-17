@@ -1,0 +1,110 @@
+{
+    "items": [
+              {
+              "id": 0,
+              "departureDate": "2017-08-01T18:00:00.000Z",
+              "totalTime": 30,
+              "destination": "a destination",
+              "stages": [
+                         {
+                         "mode": "walk",
+                         "time": 5,
+                         "distance": 500,
+                         "location": "Grzegórzecka 10"
+                         },
+                         {
+                         "mode": "train",
+                         "time": 20,
+                         "number": 22,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "bus",
+                         "time": 30,
+                         "number": 666,
+                         "location": "Hala Targowa"
+                         }
+                         ]
+              },
+              {
+              "id": 1,
+              "departureDate": "2017-08-01T18:10:00.000Z",
+              "totalTime": 30,
+              "destination": "a destination 2",
+              "stages": [
+                         {
+                         "mode": "walk",
+                         "time": 5,
+                         "distance": 500,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "train",
+                         "time": 20,
+                         "number": 22,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "bus",
+                         "time": 30,
+                         "number": 666,
+                         "location": "Hala Targowa"
+                         }
+                         ]
+              },
+              {
+              "id": 2,
+              "departureDate": "2017-08-01T18:14:00.000Z",
+              "totalTime": 30,
+              "destination": "a destination 3",
+              "stages": [
+                         {
+                         "mode": "walk",
+                         "time": 5,
+                         "distance": 500,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "train",
+                         "time": 20,
+                         "number": 22,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "bus",
+                         "time": 30,
+                         "number": 666,
+                         "location": "Hala Targowa"
+                         }
+                         ]
+              },
+              {
+              "id": 3,
+              "departureDate": "2017-08-01T18:32:00.000Z",
+              "totalTime": 30,
+              "destination": "a destination 4",
+              "stages": [
+                         {
+                         "mode": "walk",
+                         "time": 5,
+                         "distance": 500,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "train",
+                         "time": 20,
+                         "number": 22,
+                         "location": "Hala Targowa"
+                         },
+                         {
+                         "mode": "bus",
+                         "time": 30,
+                         "number": 666,
+                         "location": "Hala Targowa"
+                         }
+                         ]
+              }
+              ]
+}
+
+

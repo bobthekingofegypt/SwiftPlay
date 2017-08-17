@@ -1,0 +1,21 @@
+PODS:
+  - GoogleMaterialDesignIcons (3.0.0)
+  - Mapbox-iOS-SDK (3.6.1)
+  - SnapKit (3.2.0)
+  - SwiftDate (4.1.7)
+
+DEPENDENCIES:
+  - GoogleMaterialDesignIcons (~> 3.0.0)
+  - Mapbox-iOS-SDK (~> 3.6)
+  - SnapKit (~> 3.2.0)
+  - SwiftDate (~> 4.0)
+
+SPEC CHECKSUMS:
+  GoogleMaterialDesignIcons: 87414c498057cd22c35541d8b560e18a8cbd40d3
+  Mapbox-iOS-SDK: 7dd2a0fd08e9444b9c47f6e8fd1c32509bce3243
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+  SwiftDate: 029be76691ee89176da3a46c7df3415b6734bc5b
+
+PODFILE CHECKSUM: 55174b3e13b1c23a1424c8605583c3ca1ed21538
+
+COCOAPODS: 1.3.0
